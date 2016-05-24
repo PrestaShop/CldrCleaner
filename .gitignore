@@ -1,0 +1,7 @@
+vendor/
+temp/
+
+composer.phar
+composer.lock
+
+iso_list.yml
